@@ -23,3 +23,5 @@ Incluye interfaz de línea de comandos con **colores** mediante `colorama` para 
 
 ```bash
 pip install pyshark colorama
+
+Nota: PyShark requiere Wireshark o TShark instalado y configurado en el PATH del sistema.
